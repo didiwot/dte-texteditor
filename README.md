@@ -1,1 +1,1 @@
-texst editor
+dima text editor 
